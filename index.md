@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 Syntax highlighted code block
-
+```markdown
 # USing SCG as a tool
 ## Header 2
 ### Header 3
