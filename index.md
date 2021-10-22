@@ -3,14 +3,11 @@
 You can use the [editor on GitHub](https://github.com/kelechi93/svg.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<!DOCTYPE html>
-<html>
-<body>
+
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 <h2>This mayy be hard</h2> 
-</body>
-</html>
+
 ```markdown
 Syntax highlighted code block
 # USing SCG as a tool
@@ -27,7 +24,63 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image](<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="456" height="221" viewBox="0 0 456 221">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #084872;
+      }
 
+      .cls-2 {
+        fill: #11999a;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,0H0" transform="translate(-152 -204)"/>
+  <polygon class="cls-1" points="187 144 140 144 140 66 185 66 185 81 158 81 158 98 183 98 183 112 158 112 158 130 187 130 187 144"/>
+  <path class="cls-1" d="M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-1" d="M0,0ZM0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-1" d="M0,0ZM0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0Z" transform="translate(-152 -204)"/>
+  <polygon class="cls-2" points="175 154 175 166 174 166 166 156 166 166 165 166 165 154 166 154 174 165 174 154 175 154"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <polygon class="cls-2" points="228 162 226 164 226 166 225 166 225 154 226 154 226 163 232 157 233 157 229 161 233 166 232 166 228 162"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0ZM0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <polygon class="cls-2" points="281 157 277 166 276 166 272 157 273 157 276 165 280 157 281 157"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <rect class="cls-2" x="293" y="154" width="1" height="12.63"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0ZM0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0Z" transform="translate(-152 -204)"/>
+  <path class="cls-1" d="M0,0H0" transform="translate(-152 -204)"/>
+  <path class="cls-2" d="M0,0H0" transform="translate(-152 -204)"/>
+</svg>
+)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
