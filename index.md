@@ -3,10 +3,16 @@
 You can use the [editor on GitHub](https://github.com/kelechi93/svg.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+<h2>This mayy be hard</h2> 
+</body>
+</html>
 ```markdown
 Syntax highlighted code block
-```markdown
 # USing SCG as a tool
 ## Header 2
 ### Header 3
