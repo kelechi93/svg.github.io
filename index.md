@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](/Users/kelechi/Documents/GitHub/svg.github.io/aiVolume.svg)
 ```
 ![Image](<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="456" height="221" viewBox="0 0 456 221">
   <defs>
